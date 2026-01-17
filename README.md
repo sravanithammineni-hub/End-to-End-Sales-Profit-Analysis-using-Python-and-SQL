@@ -50,34 +50,34 @@ This project focuses on backend analytics and SQL-driven insights. The outputs a
 .
 
 ## 📂 PROJECT STRUCTURE
-End-to-End-Sales-Profit-Analysis-using-python-and-sql/
-│
-├── Data/
-│   ├── Raw/
-│   │   └──.csv
-│   │
-│   └── Processed/
-│       └── superstore_cleaned.csv
-│
-├── notebooks/
-│   └── notebook.ipynb
-│
-├── sql/
-│   ├── profit$sales.sql
-│
-├── Results/
-│   ├── Visualizations/
-│   │   ├── Correlation_Heatmap.png
-│   │   ├── Discount_vs_Profit.png
-│   │   ├── Profit_Distribution.png
-│   │   ├── Profit_by_Region.png
-│   │   ├── Profit_by_category.png
-│   │   ├── Profit_by_subcategory.png
-│   │   ├── Sales_Distribution.png
-│   ├── category_profit.csv
-│   ├── loss_subcategory.csv
-│   ├── region_profit.csv
-├── README.md
+-End-to-End-Sales-Profit-Analysis-using-python-and-sql/
+-│
+-├── Data/
+-│   ├── Raw/
+-│   │   └── superstore_sample.csv
+-│   │
+-│   └── Processed/
+-│       └── superstore_cleaned.csv
+-│
+-├── notebooks/
+-│   └── notebook.ipynb
+-│
+-├── sql/
+-│   ├── profit$sales.sql
+-│
+-├── Results/
+-│   ├── Visualizations/
+-│   │   ├── Correlation_Heatmap.png
+-│   │   ├── Discount_vs_Profit.png
+-│   │   ├── Profit_Distribution.png
+-│   │   ├── Profit_by_Region.png
+-│   │   ├── Profit_by_category.png
+-│   │   ├── Profit_by_subcategory.png
+-│   │   ├── Sales_Distribution.png
+-│   ├── category_profit.csv
+-│   ├── loss_subcategory.csv
+-│   ├── region_profit.csv
+-├── README.md
 ## Note
 This project focuses on backend analytics and SQL-driven insights. The outputs are BI-ready and can be visualized using dashboarding tools if required.
 .
