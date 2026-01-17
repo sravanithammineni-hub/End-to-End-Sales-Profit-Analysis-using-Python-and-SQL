@@ -65,19 +65,18 @@ End-to-End-Sales-Profit-Analysis-using-python-and-sql/
 ├── sql/
 │   ├── profit$sales.sql
 │
-├── outputs/
+├── Results/
 │   ├── Visualizations/
-│   │   ├── profit_by_region.png
-│   │   ├── profit_by_region.png
-│   │   ├── profit_by_region.png
-│   │   ├── profit_by_region.png
-│   │   ├── profit_by_region.png
-│   │   ├── profit_by_region.png
-│   │   ├── profit_by_region.png
-│   │   ├── category_profit.csv
-│   │   ├── loss_subcategory.csv
-│   │   ├── region_profit.csv
-│
+│   │   ├── Correlation_Heatmap.png
+│   │   ├── Discount_vs_Profit.png
+│   │   ├── Profit_Distribution.png
+│   │   ├── Profit_by_Region.png
+│   │   ├── Profit_by_category.png
+│   │   ├── Profit_by_subcategory.png
+│   │   ├── Sales_Distribution.png
+│   ├── category_profit.csv
+│   ├── loss_subcategory.csv
+│   ├── region_profit.csv
 ├── README.md
 ## Note
 This project focuses on backend analytics and SQL-driven insights. The outputs are BI-ready and can be visualized using dashboarding tools if required.
