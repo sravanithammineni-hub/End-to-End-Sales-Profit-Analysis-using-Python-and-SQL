@@ -60,18 +60,23 @@ End-to-End-Sales-Profit-Analysis-using-python-and-sql/
 │       └── superstore_cleaned.csv
 │
 ├── notebooks/
-│   └── sales_profit_analysis.ipynb
+│   └── notebook.ipynb
 │
 ├── sql/
-│   ├── data_validation.sql
+│   ├── profit$sales.sql
 │
 ├── outputs/
-│   ├── figures/
+│   ├── Visualizations/
 │   │   ├── profit_by_region.png
-│   │   ├── discount_vs_profit.png
-│   │   └── loss_making_subcategories.png
-│   │
-│   └── summary_insights.txt
+│   │   ├── profit_by_region.png
+│   │   ├── profit_by_region.png
+│   │   ├── profit_by_region.png
+│   │   ├── profit_by_region.png
+│   │   ├── profit_by_region.png
+│   │   ├── profit_by_region.png
+│   │   ├── category_profit.csv
+│   │   ├── loss_subcategory.csv
+│   │   ├── region_profit.csv
 │
 ├── README.md
 ## Note
